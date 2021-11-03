@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       readme:cdce8b20-f039-4edb-b5e7-0bc7edc86351
+:END:
+#+TITLE: Public Static Void Main
+#+DATE: 2021-10-31 11:05
+#+STARTUP: overview
+#+AUTHOR: Eric Wang
+#+EXPORT_FILE_NAME: readme
+#+FILETAGS: :readme:..:
+#+HUGO_TAGS: :readme:..:
+#+HUGO_WEIGHT: auto
+#+HUGO_BASE_DIR: ~/G/blog
+#+HUGO_AUTO_SET_LASTMOD: t
+#+HUGO_SECTION: ..
+#+HUGO_CATEGORIES: ..
+
+[[./s/public-static.5nksgcznkhk0.jpg]]
